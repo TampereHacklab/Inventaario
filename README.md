@@ -1,5 +1,5 @@
 # Inventaario
-Hacklabin koneet, laitteet ja muu irtaimisto projektinhallintaa varten
+Hacklabin koneet, laitteet ja muut yleiset asiat projektinhallintaa varten
 
 ---
 - [Projekti: TILAT](https://github.com/TampereHacklab/Inventaario/projects/4) (Tiloihin liittyvien tehtävien seuranta)
