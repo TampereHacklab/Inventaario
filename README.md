@@ -8,6 +8,8 @@ Hacklabin koneet, laitteet ja muut yleiset asiat projektinhallintaa varten
 ---
 - [Projekti: MUUT](https://github.com/TampereHacklab/Inventaario/projects/6) (Yleisiin tehtäviin liittyvä seuranta)
 ---
+- [Luo Uusi Tehtävä](https://github.com/TampereHacklab/Inventaario/issues/new) (Seuraa kaikkia tehtäviä)
+---
 - [Kaikki Tehtävät](https://github.com/TampereHacklab/Inventaario/issues) (Seuraa kaikkia tehtäviä)
 ---
 - [Kaikki Projektit](https://github.com/TampereHacklab/Inventaario/projects) (Seuraa kaikkia projekteja)
