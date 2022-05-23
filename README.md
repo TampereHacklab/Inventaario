@@ -1,5 +1,6 @@
 # Inventaario
-Hacklabin koneet, laitteet ja muut yleiset asiat projektinhallintaa varten
+Hacklabin koneet, laitteet ja muut yleiset asiat projektinhallintaa varten.
+- Käyttöohjeet: [HackLab GitHub Issue Tutoriaali - YouTube](https://youtu.be/wK8MJEgYLr4) 
 
 ---
 - [Projekti: TILAT](https://github.com/TampereHacklab/Inventaario/projects/4) (Tiloihin liittyvien tehtävien seuranta)
