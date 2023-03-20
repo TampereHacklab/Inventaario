@@ -18,3 +18,7 @@ Hacklabin koneet, laitteet ja muut yleiset asiat projektinhallintaa varten.
 
 Tehtäviin liittyvät materiaalit kuten videot, kuvat, piirustukset voi laittaa commitilla kansioon:
 [Inventaario / Media / Kuvat](https://github.com/TampereHacklab/Inventaario/tree/main/Media/Kuvat)
+---
+Tickettien status päivittyy automaagisesti nettisivuille (About boksin tägeistä):
+- [Tampere.Hacklab.FI - Tilat](https://tampere.hacklab.fi/status/tilat/)
+- [Tampere.Hacklab.FI - Koneet](https://tampere.hacklab.fi/status/koneet/)
