@@ -13,7 +13,7 @@ Hacklabin koneet, laitteet ja muut yleiset asiat projektinhallintaa varten.
 ---
 - [Kaikki Tehtävät](https://github.com/TampereHacklab/Inventaario/issues) (Seuraa kaikkia tehtäviä)
 ---
-- [Kaikki Projektit](https://github.com/TampereHacklab/Inventaario/projects) (Seuraa kaikkia projekteja)
+- [Kaikki Projektit](https://github.com/TampereHacklab/Inventaario/projects?type=classic) (Seuraa kaikkia projekteja)
 ---
 
 Tehtäviin liittyvät materiaalit kuten videot, kuvat, piirustukset voi laittaa commitilla kansioon:
