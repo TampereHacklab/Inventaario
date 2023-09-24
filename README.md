@@ -3,15 +3,15 @@ Hacklabin koneet, laitteet ja muut yleiset asiat projektinhallintaa varten.
 - Käyttöohjeet: [HackLab GitHub Issue Tutoriaali - YouTube](https://youtu.be/wK8MJEgYLr4) 
 
 ---
-- [Projekti: TILAT](https://github.com/TampereHacklab/Inventaario/projects/4) (Tiloihin liittyvien tehtävien seuranta)
+- [Projekti: TILAT](https://github.com/TampereHacklab/Inventaario/projects/4) (Tiloihin liittyvien tehtävien seuranta | Tasks related to premises)
 ---
-- [Projekti: LAITTEET](https://github.com/TampereHacklab/Inventaario/projects/5) (Laitteisiin liittyvien tehtävien seuranta)
+- [Projekti: LAITTEET](https://github.com/TampereHacklab/Inventaario/projects/5) (Laitteisiin liittyvien tehtävien seuranta | Tasks related to equipment)
 ---
-- [Projekti: MUUT](https://github.com/TampereHacklab/Inventaario/projects/6) (Yleisiin tehtäviin liittyvä seuranta)
+- [Projekti: MUUT](https://github.com/TampereHacklab/Inventaario/projects/6) (Yleisiin tehtäviin liittyvä seuranta | General tasks)
 ---
-- [Luo Uusi Tehtävä](https://github.com/TampereHacklab/Inventaario/issues/new) (Jos koet että jotain pitäisi tehdä)
+- [Luo Uusi Tehtävä](https://github.com/TampereHacklab/Inventaario/issues/new) (Jos koet että jotain pitäisi tehdä| Something should be done)
 ---
-- [Kaikki Tehtävät](https://github.com/TampereHacklab/Inventaario/issues) (Seuraa kaikkia tehtäviä)
+- [Kaikki Tehtävät](https://github.com/TampereHacklab/Inventaario/issues) (Seuraa kaikkia tehtäviä | All tasks)
 ---
 - [Kaikki Projektit](https://github.com/TampereHacklab/Inventaario/projects?type=classic) (Seuraa kaikkia projekteja)
 ---
