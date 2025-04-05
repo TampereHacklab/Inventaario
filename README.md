@@ -7,13 +7,11 @@ Hacklabin koneet, laitteet ja muut yleiset asiat projektinhallintaa varten.
 ---
 - [Projekti: LAITTEET](https://github.com/TampereHacklab/Inventaario/projects/5) (Laitteisiin liittyvien tehtävien seuranta | Tasks related to equipment)
 ---
-- [Projekti: MUUT](https://github.com/TampereHacklab/Inventaario/projects/6) (Yleisiin tehtäviin liittyvä seuranta | General tasks)
----
 - [Luo Uusi Tehtävä](https://github.com/TampereHacklab/Inventaario/issues/new) (Jos koet että jotain pitäisi tehdä| Something should be done)
 ---
-- [Kaikki Tehtävät](https://github.com/TampereHacklab/Inventaario/issues) (Seuraa kaikkia tehtäviä | All tasks)
+- [Katso Kaikki Tehtävät](https://github.com/TampereHacklab/Inventaario/issues) (Seuraa kaikkia tehtäviä | All tasks)
 ---
-- [Kaikki Projektit](https://github.com/TampereHacklab/Inventaario/projects?type=classic) (Seuraa kaikkia projekteja)
+- [Katso Kaikki Projektit](https://github.com/TampereHacklab/Inventaario/projects) (Seuraa kaikkia projekteja)
 ---
 
 Tehtäviin liittyvät materiaalit kuten videot, kuvat, piirustukset voi laittaa commitilla kansioon:
